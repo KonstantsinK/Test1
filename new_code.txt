@@ -1,3 +1,7 @@
 123
 333333
 2w2w2w
+
+new line1
+new line 2\\\
+new line 444
